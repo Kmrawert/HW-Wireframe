@@ -1,6 +1,7 @@
 * {
     box-sizing: border-box;
     text-align: center;
+    /* unsure how to make the page width more narrow. */
   }
   
   body {
@@ -68,6 +69,7 @@
     text-align: center;
     margin: 15px;
     border-bottom: 10px;
+    /* needs spacing on the bottom */
   }
 
   .clear-fix {
